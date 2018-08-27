@@ -1,4 +1,0 @@
-id,kind,monsterid,times,costnumber,viplevel,NameSprite1,NameSprite2,BossSprite,costid
-1,1,209101,1,1,4,word_VIPBoss0001_01,word_VIPBoss0004_01,ui_VIPBoss0003_01,173303004
-2,2,209201,1,5,4,word_VIPBoss0002_01,word_VIPBoss0005_01,ui_VIPBoss0002_01,173303004
-3,3,209301,1,20,4,word_VIPBoss0003_01,word_VIPBoss0006_01,ui_VIPBoss0004_01,173303004
