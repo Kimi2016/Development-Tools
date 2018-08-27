@@ -1,0 +1,9 @@
+id,rank,effect,name,icon,systemid,describe,scene_effect,ui_effect
+1,1,ZUJI_emo_UI,万圣惊魂,132101001,-1,活动获取,ZUJI_emo,ZUJI_emo_UI02
+2,2,ZUJI_nangua_UI,南瓜炸弹,132101002,-1,活动获取,ZUJI_nangua,ZUJI_nangua_UI02
+3,3,ZUJI_zuanshi_UI,晶耀永恒,132101003,-1,活动获取,ZUJI_zuanshi,ZUJI_zuanshi_UI02
+4,4,ZUJI_maozhua_UI,喵咪软垫,132101004,-1,活动获取,ZUJI_maozhua,ZUJI_maozhua_UI02
+5,5,ZUJI_jinbi_UI,财源滚滚,132101005,-1,活动获取,ZUJI_jinbi,ZUJI_jinbi_UI02
+6,6,ZUJI_xukong_UI,灾厄魔痕,132101006,-1,充值活动中获得,ZUJI_xukong,ZUJI_xukong_UI02
+7,7,ZUJI_keji_UI,源流代码,132101007,-1,活动获取,ZUJI_keji,ZUJI_keji_UI
+8,8,ZUJI_longjuanfeng_UI,疾风绝影,132101008,-1,极速挑战排行榜第一名,ZUJI_longjuanfeng,ZUJI_longjuanfeng_UI

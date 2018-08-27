@@ -1,0 +1,5 @@
+F:\GitHub\Development-Tools\ILRuntimeWithFairyGUI\Hotfix\obj\Debug\Assembly-CSharp-Hotfix.csproj.CoreCompileInputs.cache
+F:\GitHub\Development-Tools\ILRuntimeWithFairyGUI\Temp\UnityVS_bin\Debug\Hotfix.dll
+F:\GitHub\Development-Tools\ILRuntimeWithFairyGUI\Temp\UnityVS_bin\Debug\Hotfix.pdb
+F:\GitHub\Development-Tools\ILRuntimeWithFairyGUI\Hotfix\obj\Debug\Hotfix.dll
+F:\GitHub\Development-Tools\ILRuntimeWithFairyGUI\Hotfix\obj\Debug\Hotfix.pdb

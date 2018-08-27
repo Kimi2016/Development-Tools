@@ -1,0 +1,16 @@
+id,kind,systemid,level,desribe_2,level_2,describe_1,model,effect,effect2
+1,1,131020000,5,仙子仗剑同行,11,最高战力：246000,anim/character/base/9970010/9970010,,
+2,2,610000000,11,获赠羽翼法宝,14,最高战力：390000,anim/other/chibang/6/6_UIShow,,
+3,3,131010100,14,解锁熊猫骑宠,20,最高战力：274000,anim/Ride/1/1_UIShow,,
+4,4,232000000,20,神秘道戒觉醒,25,最高战力：420000,,Effect/UI/Public/UI_jiezhi01_small,Effect/UI/Public/UI_jiezhi01_big
+5,5,231000000,25,养成稀世道铠,30,最高战力：455000,anim/ZJ/2/2,,
+6,6,131060000,30,足迹如影随形,36,最高战力：220000,,Effect/skillEffect/Effect/ZUJI_binglianhua_UI,
+7,7,108000000,36,解封上古神兵,40,最高战力：840000,anim/shenbing/1/1,,
+8,8,104010000,40,转生直升500战力,45,最高战力：57750,,Effect/UI/Public/UI_zhuanshen,Effect/UI/Public/UI_zhuanshen_big
+9,9,248000000,45,六道轮回显神通,1042,最多解锁8个神通,,Effect/UI/Public/UI_lunhuita02,Effect/UI/Public/UI_lunhuita02_big
+10,10,131050000,1042,解锁绝世玄兵,1047,最高战力：266000,anim/fabao/1/1,,
+11,11,172000000,1047,仙侣双宿双飞,1049,最高战力：31780,,Effect/UI/Public/UI_hongxin,Effect/UI/Public/UI_hongxin_big
+12,12,290000000,1049,打造极品套装,2048,最高战力：672000,,Effect/UI/Public/XGN_taozhuang,Effect/UI/Public/XGN_taozhuang_big
+13,13,310000000,2048,掌控符文之力,2051,最高战力：201600,,Effect/UI/Public/XGN_fuwen,Effect/UI/Public/XGN_fuwen_big
+14,14,109000000,2051,明悟领域大道,2053,最高战力：500000,,Effect/UI/Public/skill_shui_UI02,Effect/UI/Public/skill_shui_UI02_big
+15,15,131070000,2053,解锁华丽仙器,3052,最高战力：218000,anim/Xianqi/1/1,,

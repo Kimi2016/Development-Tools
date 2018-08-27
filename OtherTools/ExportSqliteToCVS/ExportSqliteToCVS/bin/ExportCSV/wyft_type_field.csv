@@ -1,0 +1,8 @@
+id,fieldid,item_id,item_number,prefieldid,prelevel,name,effect,skillname,scene_effect
+1,1,182370008,0,-1,20,烈火领域,skill_huozhen_UI,阳星极火,skill_huozhen
+2,2,182370008,0,1,20,雨水领域,skill_shui_UI,露雨冥月,skill_shui
+3,3,182370008,0,2,20,玄冰领域,skill_bing_UI,千里冰封,skill_bing
+4,4,182370008,0,3,20,雷电领域,skill_shandian_UI,雷霆之怒,skill_shandian
+5,5,182370008,0,4,20,疾风领域,skill_feng_UI,掠影风牙,skill_feng
+6,6,182370008,0,5,20,虚空领域,skill_xukong_UI,无尽虚空,skill_xukong
+7,7,182370008,0,6,20,神光领域,skill_guang_UI,五色神光,skill_guang

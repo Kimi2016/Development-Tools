@@ -1,0 +1,14 @@
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\ExportSqliteToCVS.exe.config
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\ExportSqliteToCVS.exe.config
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\ExportSqliteToCVS.exe
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\ExportSqliteToCVS.pdb
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\System.Data.SQLite.dll
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\System.Data.SQLite.pdb
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\obj\Debug\ExportSqliteToCVS.exe
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\obj\Debug\ExportSqliteToCVS.pdb
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\System.Data.SQLite.EF6.dll
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\System.Data.SQLite.Linq.dll
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\System.Data.SQLite.EF6.pdb
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\System.Data.SQLite.EF6.xml
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\System.Data.SQLite.Linq.pdb
+E:\WorkSpace\client_Manghuangji_Trunk_Android\Document\ExportSqliteToCVS\ExportSqliteToCVS\bin\Debug\System.Data.SQLite.Linq.xml

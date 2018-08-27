@@ -1,0 +1,6 @@
+minlevel,maxlevel,attacklesspercent,deflesspercent,hplesspercent,durtime
+1,1050,0,0,0,600000
+2045,2055,0,0,0,900000
+3050,3060,0,0,0,1200000
+4055,4065,0,0,0,1500000
+5060,20150,0,0,0,1800000

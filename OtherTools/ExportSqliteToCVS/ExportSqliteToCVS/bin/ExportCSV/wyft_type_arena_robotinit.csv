@@ -1,0 +1,4 @@
+id,minrank,maxrank,minlevel,maxlevel
+1,1,10,39,40
+2,10,50,35,39
+3,50,101,30,35
