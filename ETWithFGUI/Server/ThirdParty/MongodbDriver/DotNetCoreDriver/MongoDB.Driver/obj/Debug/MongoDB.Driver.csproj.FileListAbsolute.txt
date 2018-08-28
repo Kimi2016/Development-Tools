@@ -1,0 +1,10 @@
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\MongoDB.Driver.deps.json
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\MongoDB.Driver.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\MongoDB.Driver.pdb
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Driver\obj\Debug\MongoDB.Driver.csprojAssemblyReference.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Driver\obj\Debug\MongoDB.Driver.csproj.CoreCompileInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Driver\obj\Debug\MongoDB.Driver.AssemblyInfoInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Driver\obj\Debug\MongoDB.Driver.AssemblyInfo.cs
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Driver\obj\Debug\MongoDB.Driver.csproj.CopyComplete
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Driver\obj\Debug\MongoDB.Driver.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Driver\obj\Debug\MongoDB.Driver.pdb

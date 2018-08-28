@@ -1,0 +1,8 @@
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\MongoDB.Bson.deps.json
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\MongoDB.Bson.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\MongoDB.Bson.pdb
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Bson\obj\Debug\MongoDB.Bson.csproj.CoreCompileInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Bson\obj\Debug\MongoDB.Bson.AssemblyInfoInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Bson\obj\Debug\MongoDB.Bson.AssemblyInfo.cs
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Bson\obj\Debug\MongoDB.Bson.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Bson\obj\Debug\MongoDB.Bson.pdb

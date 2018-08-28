@@ -1,0 +1,10 @@
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Libs\obj\Debug\KcpLib.csproj.CoreCompileInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Libs\obj\Debug\KcpLib.AssemblyInfoInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Libs\obj\Debug\KcpLib.AssemblyInfo.cs
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\libkcp.so
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\kcp.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\KcpLib.deps.json
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\KcpLib.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\KcpLib.pdb
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Libs\obj\Debug\KcpLib.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Libs\obj\Debug\KcpLib.pdb

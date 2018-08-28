@@ -1,0 +1,12 @@
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CoreCompileInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfoInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfo.cs
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Hotfix\obj\Debug\Server.Hotfix.csprojAssemblyReference.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\libkcp.so
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\kcp.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\Hotfix.deps.json
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\Hotfix.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\Hotfix.pdb
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CopyComplete
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Hotfix\obj\Debug\Hotfix.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Hotfix\obj\Debug\Hotfix.pdb

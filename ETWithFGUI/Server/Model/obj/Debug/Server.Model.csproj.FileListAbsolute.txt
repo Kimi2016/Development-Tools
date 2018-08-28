@@ -1,0 +1,12 @@
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Model\obj\Debug\Server.Model.csprojAssemblyReference.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Model\obj\Debug\Server.Model.csproj.CoreCompileInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Model\obj\Debug\Server.Model.AssemblyInfoInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Model\obj\Debug\Server.Model.AssemblyInfo.cs
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\libkcp.so
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\kcp.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\Model.deps.json
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\Model.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\Model.pdb
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Model\obj\Debug\Server.Model.csproj.CopyComplete
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Model\obj\Debug\Model.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Server\Model\obj\Debug\Model.pdb

@@ -1,0 +1,10 @@
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.csprojAssemblyReference.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.csproj.CoreCompileInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.AssemblyInfoInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.AssemblyInfo.cs
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\Google.Protobuf.deps.json
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\Google.Protobuf.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\Google.Protobuf.pdb
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.csproj.CopyComplete
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Server\ThirdParty\Google.Protobuf\obj\Debug\Google.Protobuf.pdb

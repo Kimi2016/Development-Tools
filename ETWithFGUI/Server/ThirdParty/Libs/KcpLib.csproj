@@ -12,10 +12,10 @@
     <OutputPath>..\..\..\Bin\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\Unity\Assets\Scripts\Module\Message\Network\KCP\Kcp.cs" Link="Kcp.cs" />
+    <Compile Include="..\..\..\ETWithFairyGUI\Assets\Scripts\Module\Message\Network\KCP\Kcp.cs" Link="Kcp.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\Unity\Assets\Plugins\x86_64\kcp.dll" Link="kcp.dll">
+    <None Include="..\..\..\ETWithFairyGUI\Assets\Plugins\x86_64\kcp.dll" Link="kcp.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

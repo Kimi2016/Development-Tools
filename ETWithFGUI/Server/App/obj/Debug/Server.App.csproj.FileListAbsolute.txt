@@ -1,0 +1,16 @@
+F:\GitHub\Development-Tools\ETWithFGUI\Server\App\obj\Debug\Server.App.csprojAssemblyReference.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\App\obj\Debug\Server.App.csproj.CoreCompileInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\App\obj\Debug\Server.App.AssemblyInfoInputs.cache
+F:\GitHub\Development-Tools\ETWithFGUI\Server\App\obj\Debug\Server.App.AssemblyInfo.cs
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\libkcp.so
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\kcp.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\NLog.config
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\App.dll.config
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\App.deps.json
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\App.runtimeconfig.json
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\App.runtimeconfig.dev.json
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\App.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Bin\App.pdb
+F:\GitHub\Development-Tools\ETWithFGUI\Server\App\obj\Debug\Server.App.csproj.CopyComplete
+F:\GitHub\Development-Tools\ETWithFGUI\Server\App\obj\Debug\App.dll
+F:\GitHub\Development-Tools\ETWithFGUI\Server\App\obj\Debug\App.pdb
