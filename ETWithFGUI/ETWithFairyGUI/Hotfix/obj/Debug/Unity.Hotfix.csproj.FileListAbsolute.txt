@@ -5,3 +5,9 @@ F:\GitHub\Development-Tools\ETWithFGUI\ETWithFairyGUI\Hotfix\obj\Debug\Unity.Hot
 F:\GitHub\Development-Tools\ETWithFGUI\ETWithFairyGUI\Hotfix\obj\Debug\Unity.Hotfix.csproj.CopyComplete
 F:\GitHub\Development-Tools\ETWithFGUI\ETWithFairyGUI\Hotfix\obj\Debug\Hotfix.dll
 F:\GitHub\Development-Tools\ETWithFGUI\ETWithFairyGUI\Hotfix\obj\Debug\Hotfix.pdb
+D:\Github\Development-Tools\ETWithFGUI\ETWithFairyGUI\Temp\UnityVS_bin\Debug\Hotfix.dll
+D:\Github\Development-Tools\ETWithFGUI\ETWithFairyGUI\Temp\UnityVS_bin\Debug\Hotfix.pdb
+D:\Github\Development-Tools\ETWithFGUI\ETWithFairyGUI\Hotfix\obj\Debug\Unity.Hotfix.csproj.CoreCompileInputs.cache
+D:\Github\Development-Tools\ETWithFGUI\ETWithFairyGUI\Hotfix\obj\Debug\Unity.Hotfix.csproj.CopyComplete
+D:\Github\Development-Tools\ETWithFGUI\ETWithFairyGUI\Hotfix\obj\Debug\Hotfix.dll
+D:\Github\Development-Tools\ETWithFGUI\ETWithFairyGUI\Hotfix\obj\Debug\Hotfix.pdb

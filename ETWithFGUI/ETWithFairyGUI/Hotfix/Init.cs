@@ -17,6 +17,7 @@ namespace ETHotfix
 				ETModel.Game.Hotfix.OnApplicationQuit = () => { OnApplicationQuit(); };
 				
 				Game.Scene.AddComponent<UIComponent>();
+				Game.Scene.AddComponent<FGUIComponent>();
 				Game.Scene.AddComponent<OpcodeTypeComponent>();
 				Game.Scene.AddComponent<MessageDispatherComponent>();
 
@@ -28,6 +29,7 @@ namespace ETHotfix
 				UnitConfig unitConfig = (UnitConfig)Game.Scene.GetComponent<ConfigComponent>().Get(typeof(UnitConfig), 1001);
 				Log.Debug($"config {JsonHelper.ToJson(unitConfig)}");
 
+				//Game.EventSystem.Run(EventIdType.InitSceneStart);
 				Game.EventSystem.Run(EventIdType.InitSceneStart);
 			}
 			catch (Exception e)
