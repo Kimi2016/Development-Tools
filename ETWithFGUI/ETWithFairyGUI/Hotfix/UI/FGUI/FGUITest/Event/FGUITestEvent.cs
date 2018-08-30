@@ -8,7 +8,7 @@ namespace ETHotfix
 	{
 		public override void Run()
 		{
-			UI ui = Game.Scene.GetComponent<FGUIComponent>().Create(UIType.FGUITest);
+			Game.Scene.GetComponent<FGUIComponent>().Create(UIType.FGUITest);
 		}
 	}
 }

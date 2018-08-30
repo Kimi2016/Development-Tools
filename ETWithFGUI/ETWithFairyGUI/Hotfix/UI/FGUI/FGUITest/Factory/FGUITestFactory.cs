@@ -1,8 +1,10 @@
-﻿using UnityEngine;
+﻿using ETModel;
+using UnityEngine;
 
 
 namespace ETHotfix
 {
+	[UIFactory(UIType.FGUITest)]
 	public class FGUITestFactory : IUIFactory
 	{
 		public UI Create(Scene scene, string type, GameObject parent)
@@ -10,22 +12,18 @@ namespace ETHotfix
 			//TODO
 
 			Log.Debug("FairyGUI.UIPackage.AddPackage(Bag);");
+
 			FairyGUI.UIPackage.AddPackage("FGUI/Bag");
-			FairyGUI.GComponent gComponent = FairyGUI.UIPackage.CreateObject("Bag", "Main").asCom;
-			FairyGUI.GRoot.inst.AddChild(gComponent);
 
-			gComponent.GetChild("bagBtn").onClick.Add(() =>
-			{
-				var component = FairyGUI.UIPackage.CreateObject("Bag", "BagWin").asCom;
-				FairyGUI.GRoot.inst.AddChild(component);
-			});
-
-			return null;
+			UI ui = ComponentFactory.Create<UI, GameObject>(null);
+			ui.AddComponent<FGUITestComponent>();
+			return ui;
 		}
 
 		public void Remove(string type)
 		{
 			//TODO
+			//FairyGUI.UIPackage.RemovePackage("FGUI/Bag");
 		}
 	}
 }

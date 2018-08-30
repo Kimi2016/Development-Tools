@@ -30,7 +30,7 @@ namespace ETHotfix
 				Log.Debug($"config {JsonHelper.ToJson(unitConfig)}");
 
 				//Game.EventSystem.Run(EventIdType.InitSceneStart);
-				Game.EventSystem.Run(EventIdType.InitSceneStart);
+				Game.EventSystem.Run(EventIdType.FGUITest);
 			}
 			catch (Exception e)
 			{

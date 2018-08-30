@@ -99,6 +99,8 @@ namespace ETHotfix
 			try
 			{
 				UI ui = UiTypes[type].Create(this.GetParent<Scene>(), type, Root);
+				if (ui == null) return null;
+
 				uis.Add(type, ui);
 
 				// 设置canvas
