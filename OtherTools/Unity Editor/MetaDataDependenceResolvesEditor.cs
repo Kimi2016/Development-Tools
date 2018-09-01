@@ -10,7 +10,7 @@ using UnityEngine;
 /// </summary>
 public class MetaDataDependenceResolvesEditor : EditorWindow
 {
-	[MenuItem("Tools/MateResolvesEditor")]
+	[MenuItem("Tools/MetaData/Simple/DependenceResolvesEditor")]
 	static void OpenEditor()
 	{
 		var window = EditorWindow.GetWindow<MetaDataDependenceResolvesEditor>(false, "MetaDataDependenceResolvesEditor");
